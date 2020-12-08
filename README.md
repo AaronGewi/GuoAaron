@@ -1,2 +1,2 @@
-# GuoAaron
-# Information about me
+# Aaron Guo - Freshman
+## Information about me
