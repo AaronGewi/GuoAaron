@@ -4,7 +4,7 @@
 
 
 - ![Photography](https://static.photocdn.pt/images/articles/2019/04/30/what_is_photography.jpg)
-# - Editingitng and Videography
+# - Editing and Videography
 - ![Editing and Videography](https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2017/05/fcpx_new_timeline.png)
 # - Stock Trading
 - ![Stock Trading](https://cdnp3.stackassets.com/786d2032bbfc492f92ab11501ca6240b0762c8f6/store/0d5f519ba051a4718d759173825b322b2989abda31e6e802bf813016f3d5/sale_18715_primary_image.jpg)
@@ -16,4 +16,4 @@
 ![Coding](https://i2.wp.com/www.geoawesomeness.com/wp-content/uploads/2017/09/Coding-Geospatial.jpg?resize=1152%2C768&ssl=1)
 
 
-Links to other pages:
+## Links to other pages:
