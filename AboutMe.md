@@ -12,3 +12,9 @@
 >
 >
 >I am just a freshman right now and I cannot wait to see where I end up in the future. I plan on securing a job with my degree while working on other side projects and businesses. I plan on getting one of these jobs as a steady source of income and eventually I want to build up more and more sources of income. Whether that is from investing, real estate, or by creating my own company! I am young and I am very excited to see my future! This class has taught me so much and really gave me confidence that I can actually become a software engineer! 
+
+### Other Links
+- [Home](https://github.com/AaronGewi/GuoAaron/blob/main/README.md)
+- [Coding Experience](https://github.com/AaronGewi/GuoAaron/blob/main/CodingExperience.md)
+-[Hobbies](https://github.com/AaronGewi/GuoAaron/blob/main/Hobbies.md)
+- [My Shoes and Pictures](https://github.com/AaronGewi/GuoAaron/tree/main/My%20Shoes)
