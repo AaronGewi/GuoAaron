@@ -16,5 +16,5 @@
 ### Other Links
 - [Home](https://github.com/AaronGewi/GuoAaron/blob/main/README.md)
 - [Coding Experience](https://github.com/AaronGewi/GuoAaron/blob/main/CodingExperience.md)
--[Hobbies](https://github.com/AaronGewi/GuoAaron/blob/main/Hobbies.md)
+- [Hobbies](https://github.com/AaronGewi/GuoAaron/blob/main/Hobbies.md)
 - [My Shoes and Pictures](https://github.com/AaronGewi/GuoAaron/tree/main/My%20Shoes)
