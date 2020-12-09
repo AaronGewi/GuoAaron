@@ -295,7 +295,7 @@ def main():
 main()
 ```
 
-### Other Links
+### Links to Other Pages
 - [Home](https://github.com/AaronGewi/GuoAaron/blob/main/README.md)
 - [About Me](https://github.com/AaronGewi/GuoAaron/blob/main/AboutMe.md)
 - [Hobbies](https://github.com/AaronGewi/GuoAaron/blob/main/Hobbies.md)
