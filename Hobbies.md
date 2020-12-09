@@ -15,5 +15,8 @@
 # - Coding
 ![Coding](https://i2.wp.com/www.geoawesomeness.com/wp-content/uploads/2017/09/Coding-Geospatial.jpg?resize=1152%2C768&ssl=1)
 
-
-## Links to other pages:
+### Links to Other Pages
+- [Home](https://github.com/AaronGewi/GuoAaron/blob/main/README.md)
+- [About Me](https://github.com/AaronGewi/GuoAaron/blob/main/AboutMe.md)
+- [Coding Experience](https://github.com/AaronGewi/GuoAaron/blob/main/CodingExperience.md)
+- [My Shoes and Pictures](https://github.com/AaronGewi/GuoAaron/tree/main/My%20Shoes)
